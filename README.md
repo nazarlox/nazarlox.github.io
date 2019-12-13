@@ -1,1 +1,0 @@
-# nazarlox.github.io
